@@ -1,5 +1,3 @@
 This is my First git learning and i am adding the first time content using the Git project
 
 Login feature development was started using the Git commands as a practice 
-
-Learning Git is fun
